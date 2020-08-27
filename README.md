@@ -14,3 +14,6 @@ https://github.com/BrandTime/bbb_bot
   
 感谢xiyaowong大佬:  
 https://github.com/xiyaowong/iotbot-plugins  
+  
+感谢bypanghu大佬：  
+https://github.com/bypanghu/assests  
