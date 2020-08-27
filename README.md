@@ -2,7 +2,7 @@
 OPQ自用插件
 白嫖+改写  
   
-OPQ:
+OPQ:  
 https://github.com/OPQBOT/OPQ  
   
 Python-iotbot:  
